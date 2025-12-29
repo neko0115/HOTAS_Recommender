@@ -54,7 +54,7 @@
     "tags": ["jet", "high", "force_sensing", "air_force", "navy"],
     "reliability_risk": 1,
     "diy_required": 1,
-    "support_risk": 2,
+    "support_risk": 0,
     "sim_support_risk": 0,
     "desc_short": "高階力感應基座+握把（昂貴但標竿）。",
     "desc_detail": "力感應體驗頂級但價格高；力道約真機的一半，四向力相同；不建議購買 LIGHT 基座版本。",
