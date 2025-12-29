@@ -357,7 +357,7 @@
     "warnings": ["建議汰換才購買，不建議第一隻就買"]
   },
   {
-    "name": "VPC CDT-AEROMAX-R",
+    "name": "VPC MongoosT-50CM3 Throttle",
     "category": "throttle",
     "control_type": "standard",
     "price_usd": null,
@@ -378,7 +378,7 @@
     "warnings": ["建議汰換才購買，不建議第一隻就買"]
   },
   {
-    "name": "VPC VMAX",
+    "name": "VPC VMAX Prime Throttle",
     "category": "throttle",
     "control_type": "standard",
     "price_usd": null,
@@ -651,5 +651,6 @@
     "warnings": ["僅包含該套裝所需的必要零件和組件。它們不包含單獨出售的 GNX 模組中的其他零件，例如額外的線束、連接器等。"]
   }
 ]
+
 
 
