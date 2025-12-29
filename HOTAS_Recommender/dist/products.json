@@ -46,7 +46,7 @@
     "category": "stick_base",
     "control_type": "force_sensing",
     "price_usd": null,
-    "price_eur": 8800,
+    "price_eur": 880,
     "price_cny": null,
     "price_twd": null,
     "shipping_excluded": false,
@@ -651,3 +651,4 @@
     "warnings": ["僅包含該套裝所需的必要零件和組件。它們不包含單獨出售的 GNX 模組中的其他零件，例如額外的線束、連接器等。"]
   }
 ]
+
